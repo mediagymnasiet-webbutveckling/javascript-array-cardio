@@ -1,6 +1,6 @@
 # Array Cardio
 
-Syftet med denna uppgift är att använda JavaScript Array metoder där en callback-funktion skickas in i funktionen och returneras. Du använder dig av metoderna;
+Syftet med denna uppgift är att använda JavaScript Array metoder där en callback-funktion skickas in i funktionen och returneras. Du använder dig av metoderna:
 
 * map
 * filter
