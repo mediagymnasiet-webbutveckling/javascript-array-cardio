@@ -102,5 +102,6 @@
   // 5. Använd SORT för att sortera "people" i alfabetisk ordning efter efternamn!
   //  Tips: Använd metoden split()
 
-  // 8. Använd REDUCE för att summera varje typ av "transportation". D.v.s antal "cars", "trucks", etc 
+  // 6. Använd REDUCE för att summera varje typ av "transportation". D.v.s antal "cars", "trucks", etc 
 
+  // 7. Kom på en egen twist med datat du har :-)
