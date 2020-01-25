@@ -89,9 +89,9 @@
   'truck'
 ];
 
-  // 1. Använd FILTER för att få en ny array av "inventories" födda på 1500-talet
+  // 1. Använd FILTER för att få en ny array av "inventors" födda på 1500-talet
 
-  // 2. Använd MAP så att du får en ny array med för- och efternamn ihopslagna för alla "inventories"
+  // 2. Använd MAP så att du får en ny array med för- och efternamn ihopslagna för alla "inventors"
  
   // 3. Använd REDUCE för att summera hur många år totalt alla "inventors" var i livet
   
