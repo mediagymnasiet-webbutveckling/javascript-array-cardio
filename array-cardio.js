@@ -1,12 +1,10 @@
-  // Get your shorts on - this is an array workout!
-    // ## Array Cardio Day 1
-
-    // Some data we can work with
+    // Ok. Du ska öva array-metoderna MAP, FILTER, REDUCE, SORT på de ifyllda arrayerna inventors, people och transportations
+    // Se uppgift 1-7 nedan
 
     const inventors = [{
       first: 'Albert',
       last: 'Einstein',
-      year: 1879,
+      year: 187
       passed: 1955
     },
     {
@@ -87,21 +85,21 @@
     'Blair, Tony', 'Blake, William'
   ];
 
-  const data = ['car', 'car', 'truck', 'truck', 'bike', 'walk', 'car', 'van', 'bike', 'walk', 'car', 'van', 'car',
+  const transportation = ['car', 'car', 'truck', 'truck', 'bike', 'walk', 'car', 'van', 'bike', 'walk', 'car', 'van', 'car',
   'truck'
 ];
 
-  // 1. Använd FILTER för att få en ny array med "inventories" födda på 1500-talet
+  // 1. Använd FILTER för att få en ny array av "inventories" födda på 1500-talet
 
-  // 2. Använd MAP så att både för- och efternamn anges på varje position i arrayen
+  // 2. Använd MAP så att du får en ny array med för- och efternamn ihopslagna för alla "inventories"
  
   // 3. Använd REDUCE för att summera hur många år totalt alla "inventors" var i livet
   
   // 4. Använd SORT för att sortera "inventors" från yngst till äldst
   
   // 5. Använd SORT för att sortera "people" i alfabetisk ordning efter efternamn!
-  //  Tips: Använd metoden split()
+  // Tips: Använd metoden split()
 
-  // 6. Använd REDUCE för att summera varje typ av "transportation". D.v.s antal "cars", "trucks", etc 
+  // 6. Använd REDUCE för att summera varje typ av "transportation". D.v.s antal "cars", "trucks", etc. (Liten utmaning..)
 
   // 7. Kom på en egen twist med datat du har :-)
